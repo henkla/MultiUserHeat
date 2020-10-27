@@ -1,0 +1,9 @@
+C:\Users\lthla\Projekt\Utveckling\MultiUserHeat\MultiUserHeat\bin\Debug\netstandard2.0\MultiUserHeat.deps.json
+C:\Users\lthla\Projekt\Utveckling\MultiUserHeat\MultiUserHeat\bin\Debug\netstandard2.0\MultiUserHeat.dll
+C:\Users\lthla\Projekt\Utveckling\MultiUserHeat\MultiUserHeat\bin\Debug\netstandard2.0\MultiUserHeat.pdb
+C:\Users\lthla\Projekt\Utveckling\MultiUserHeat\MultiUserHeat\obj\Debug\netstandard2.0\MultiUserHeat.csprojAssemblyReference.cache
+C:\Users\lthla\Projekt\Utveckling\MultiUserHeat\MultiUserHeat\obj\Debug\netstandard2.0\MultiUserHeat.AssemblyInfoInputs.cache
+C:\Users\lthla\Projekt\Utveckling\MultiUserHeat\MultiUserHeat\obj\Debug\netstandard2.0\MultiUserHeat.AssemblyInfo.cs
+C:\Users\lthla\Projekt\Utveckling\MultiUserHeat\MultiUserHeat\obj\Debug\netstandard2.0\MultiUserHeat.csproj.CoreCompileInputs.cache
+C:\Users\lthla\Projekt\Utveckling\MultiUserHeat\MultiUserHeat\obj\Debug\netstandard2.0\MultiUserHeat.dll
+C:\Users\lthla\Projekt\Utveckling\MultiUserHeat\MultiUserHeat\obj\Debug\netstandard2.0\MultiUserHeat.pdb

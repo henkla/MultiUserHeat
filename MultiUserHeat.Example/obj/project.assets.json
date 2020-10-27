@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MultiUserHeat/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MultiUserHeat.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiUserHeat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiUserHeat/1.0.0": {
+      "type": "project",
+      "path": "../MultiUserHeat/MultiUserHeat.csproj",
+      "msbuildProject": "../MultiUserHeat/MultiUserHeat.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MultiUserHeat >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lthla\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lthla\\Projekt\\Utveckling\\MultiUserHeat\\MultiUserHeat.Example\\MultiUserHeat.Example.csproj",
+      "projectName": "MultiUserHeat.Example",
+      "projectPath": "C:\\Users\\lthla\\Projekt\\Utveckling\\MultiUserHeat\\MultiUserHeat.Example\\MultiUserHeat.Example.csproj",
+      "packagesPath": "C:\\Users\\lthla\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lthla\\Projekt\\Utveckling\\MultiUserHeat\\MultiUserHeat.Example\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\lthla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\lthla\\Projekt\\Utveckling": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\lthla\\Projekt\\Utveckling\\MultiUserHeat\\MultiUserHeat\\MultiUserHeat.csproj": {
+              "projectPath": "C:\\Users\\lthla\\Projekt\\Utveckling\\MultiUserHeat\\MultiUserHeat\\MultiUserHeat.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

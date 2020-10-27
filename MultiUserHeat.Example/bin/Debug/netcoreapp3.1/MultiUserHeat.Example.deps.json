@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MultiUserHeat.Example/1.0.0": {
+        "dependencies": {
+          "MultiUserHeat": "1.0.0"
+        },
+        "runtime": {
+          "MultiUserHeat.Example.dll": {}
+        }
+      },
+      "MultiUserHeat/1.0.0": {
+        "runtime": {
+          "MultiUserHeat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiUserHeat.Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MultiUserHeat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
